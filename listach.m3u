@@ -119,6 +119,24 @@ https://pac12-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-ID="Red Bull TV" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/red-bull-tv-logo-png-transparent.png?raw=true" tvg-name="Red Bull TV" group-title="Deportes",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
+#EXTINF:-1 tvg-id="DeporTV.ar@SD" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="🇦🇷 Argentina",DeporTV (1080p)
+http://158.172.155.130:8000/play/a09y/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNPremium.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="🇦🇷 Argentina",ESPN Premium
+http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPNPremium.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="🇦🇷 Argentina",ESPN Premium HD (1080p)
+http://158.172.155.130:8000/play/a0ao/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="🇦🇷 Argentina",TNT Sports (Argentina)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="🇦🇷 Argentina",TNT Sports (Argentina) SD (576p)
+http://181.78.79.131:8000/play/a0mo
+
+#EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="🇦🇷 Argentina",TyC Sports (1080p)
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
 # --- Variedades ---
 
 #EXTINF:-1 tvg-id="Argentinisima Satelital" tvg-logo="https://cdn.mitvstatic.com/channels/ar_argentinisima-satelital_m.png?raw=true" tvg-name="Argentinisima Satelital" group-title="Variedades",Argentinisima Satelital
@@ -259,6 +277,12 @@ http://167.249.23.102:8000/play/a0g8/index.m3u8
 
 #EXTINF:-1 tvg-id="Novelisima.us@SD" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Mundo",Novelisima
 http://138.59.177.78:9999/play/a0gg/index.m3u8
+
+#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="🇦🇷 Argentina",El Gourmet (1080p)
+http://15.204.246.24:8080/ElGourmetHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ElGourmet.ar@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="🇦🇷 Argentina",El Gourmet South (1080p)
+https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
 
 # --- Infantiles ---
 
