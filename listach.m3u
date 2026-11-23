@@ -519,5 +519,32 @@ http://15.204.246.24:8080/MTVHD/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.uy@SD" tvg-logo="https://i.imgur.com/IpYxSr1.png" group-title="General",Canal 5 (Uruguay) (720p)
 https://tinyurl.com/canal5uy
 
-#EXTINF:-1 tvg-id="Canal5.uy@SD" tvg-logo="https://i.imgur.com/IpYxSr1.png" group-title="General",Canal 4 (Uruguay) (720p)
+#EXTINF:-1 tvg-id="Canal4.uy@SD" tvg-logo="https://i.imgur.com/Te2oTvX.jpeg" group-title="General",Canal 4 (Uruguay) (720p)
 https://meganicxgv.lat:443/Pepe/1234/277074
+
+#EXTINF:-1 tvg-id="Canal10.uy@SD" tvg-logo="https://i.imgur.com/chyUMfk.jpeg" group-title="General",Canal 10 (Uruguay) (720p)
+https://meganicxgv.lat:443/Pepe/1234/277078
+
+#EXTINF:-1 tvg-id="Canal12.uy@SD" tvg-logo="https://i.imgur.com/opOruIw.png" group-title="General",Canal 12 (Uruguay) (720p)
+https://meganicxgv.lat:443/Pepe/1234/277082
+
+#EXTINF:-1 tvg-id="CanalA+V.uy@SD" tvg-logo="" group-title="General",Canal A+V (Uruguay) (720p)
+https://meganicxgv.lat:443/Pepe/1234/277085
+
+#EXTINF:-1 tvg-id="CanalLa Red.uy@SD" tvg-logo="" group-title="General",Canal La Red (Uruguay) (720p)
+https://meganicxgv.lat:443/Pepe/1234/277086
+
+#EXTINF:-1 tvg-id="CanalTv Ciudad.uy@SD" tvg-logo="" group-title="General",Canal TV Ciudad (Uruguay) (720p)
+https://meganicxgv.lat:443/Pepe/1234/277088
+
+#EXTINF:-1 tvg-id="CanalMaroñas.uy@SD" tvg-logo="" group-title="General",Canal Maroñas (Uruguay) (720p)
+https://meganicxgv.lat:443/Pepe/1234/277089
+
+#EXTINF:-1 tvg-id="CanalVTV.uy@SD" tvg-logo="https://i.imgur.com/t3Ut2hx.jpeg" group-title="General",Canal VTV (Uruguay) (720p)
+https://meganicxgv.lat:443/Pepe/1234/277091
+
+#EXTINF:-1 tvg-id="CanalVTV Plus.uy@SD" tvg-logo="https://i.imgur.com/t3Ut2hx.jpeg" group-title="General",Canal VTV Plus (Uruguay) (720p)
+https://meganicxgv.lat:443/Pepe/1234/277092
+
+#EXTINF:-1 tvg-id="CanalVTV Plus.uy@SD" tvg-logo="https://i.imgur.com/t3Ut2hx.jpeg" group-title="General",Canal VTV Plus (Uruguay) (720p)
+https://meganicxgv.lat:443/Pepe/1234/277093
